@@ -1,0 +1,4 @@
+th, thead{
+    position: sticky;
+    top: 0;
+  }
